@@ -37,6 +37,8 @@
 
 ## Intro
 
+** You might need git-lfs to clone this repo **
+
 ### What are dotfiles?
 
 One of the beautiful things about Linux, is how easily customizable everything is. Usually these custom configurations are stored in files that start with a dot (hence dotfiles!), and typically located in your users home `~`, or better yet `~/.config` (even this can be customized, for apps that respect the XDG Base Directory spec). Some examples of dotfiles that you're likely already familiar with include `.gitconfig`, `.zshrc` or `.vimrc`.
