@@ -37,7 +37,7 @@
 
 ## Intro
 
-** You might need git-lfs to clone this repo **
+**You might need git-lfs to clone this repo**
 
 ### What are dotfiles?
 
